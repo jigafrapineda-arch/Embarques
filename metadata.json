@@ -1,0 +1,6 @@
+{
+  "name": "Bitácora de Embarques - JIGAFRA",
+  "description": "Sistema de gestión y bitácora de embarques, control de flota, operadores, rutas y vigilancia para JIGAFRA, S.A. DE C.V.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
